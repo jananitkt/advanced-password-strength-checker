@@ -14,6 +14,12 @@ This is an enhanced browser-based password checker that evaluates password stren
 - Regex-based rule validation
 - Clean responsive UI
 
+
+## 📸 Preview
+
+<img src="https://github.com/jananitkt/advanced-password-strength-checker/blob/main/passwordcheck.png" alt="Flight Booking UI Screenshot" width="100%" />
+
+
 ## 🚀 How to Run
 
 1. Download the files or clone the repo
